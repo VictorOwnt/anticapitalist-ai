@@ -26,3 +26,14 @@ This isn't a product. It's a tool for building the future-quietly, steadily, tog
 We're not here to compete with Google, OpenAi, Microsoft or Meta.
 
 We're here so people can forget they exist.
+
+## License
+
+This project is licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**.  
+See the [LICENSE](./LICENSE) file for full terms.
+
+## Disclaimer
+
+This project is political in spirit, but non-violent in action.
+
+**anticapitalist-ai** promotes digital autonomy, open-source collaboration, and non-commercial technology. It does **not** condone harm, violence, or illegal activity of any kind. All rebellion here is expressed through code, words, and ideas—not destruction.
