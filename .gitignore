@@ -1,0 +1,10 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# JetBrains IDE
+.idea/
+
+# OS files
+.DS_Store
